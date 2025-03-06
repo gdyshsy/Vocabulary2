@@ -10,3 +10,4 @@ function clicked(){
     xhttp.open("GET", "data/data.txt")
     xhttp.send()
 }
+console.log("123")
