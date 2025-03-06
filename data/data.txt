@@ -1,0 +1,50 @@
+<h3>Words for Production</h3><hr>
+<ol>
+    <li><b>grace n. 優美/優雅</b><br>graceful a. 優美的/優雅的</li>,
+    <li><b>desperately ad. 拚命地</b><br>desperate a. 非常需要的/渴望的</li>,
+    <li><b>reluctantly ad. 勉強地/不情願地</b><br>reluctant a. 勉強的/不情願的</li>,
+    <li><b>describe vt. 描述</b><br>description n. 描述</li>,
+    <li><b>shiver vi. 顫抖</b></li>,
+    <li><b>faint vi. 昏厥/暈倒</b></li>,
+    <li><b>scientific a. 科學的</b></li>,
+    <li><b>frustration n. 懊惱/沮喪</b><br>frustration n. 令人沮喪的事物<br>frustrate vt. 使懊惱/使沮喪</li>,
+    <li><b>stubborn a. 頑固的</b></li>,
+    <li><b>rage n. 暴怒</b></li>,
+    <li><b>concentration n. 專注</b><br>concentrate v. 專注/集中(注意力)</li>,
+    <li><b>explain v. 解釋</b><br>explanation n. 解釋</li>,
+    <li><b>sincerity n. 真誠</b><br>sincere a. 真籌/坦率</li>,
+    <li><b>confes v. 坦白/認罪</b><br>confession n. 坦白/承認</li>,
+    <li><b>restore vt. 使恢復/使復原</b></li>,
+    <li><b>fade vi. 逐漸消失</b></li>,
+    <li><b>hardly ad. 幾乎不</b></li>,
+    <li><b>trace n. 痕跡</b></li>,
+    <li><b>depart vt. 去世/vi. 離開/出發</b><br>departure n. 離開</li>,
+    <li><b>regret n/vt. 懊悔/遺憾</b></li><br>,
+</ol>
+<h3>Idioms and Phrases</h3><hr>
+<ol>
+    <li>put aside 擱置</li>,
+    <li>from then on 從那時起</li>,
+    <li>all the more 更加/格外</li>,
+    <li>fly into rage 勃然大怒</li>,
+    <li>for one thing 首先/一方面</li>,
+    <li>be/become filled with 充滿</li>,
+    <li>slip away 消逝/死去</li>,
+</ol><br>
+<h3>Words for recognition</h3><hr>
+<ul>
+    <li>birth mark n. 胎記</li>,
+    <li>bride n. 新娘</li>,
+    <li>imperfection n. 瑕疵</li>,
+    <li>nightmare n. 惡夢</li>,
+    <li>labortory n. 實驗室</li>,
+    <li>tend to 照顧</li>,
+    <li>come around 甦醒</li>,
+    <li>seclude vt. 使隔離</li>,
+    <li>journal n. 日誌</li>,
+    <li>potion n. 藥劑</li>,
+    <li>subject...to 使承受</li>,
+    <li>formula n. 配方</li>,
+    <li>mixture n. 混合物</li>,
+    <li>miraculously ad. 奇蹟般地</li>,
+</ul><br>

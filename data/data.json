@@ -1,0 +1,109 @@
+{
+    "Lesson1" : {
+    "champion" : "n. 冠軍",
+    "dedication" : "n. 奉獻",
+    "medal" : "n. 獎牌",
+    "injury" : "n. 受傷",
+    "success" : "n. 成功/成功的人、事",
+    "pain" : "n. 疼痛",
+    "immediatly" : "ad. 立即馬上",
+    "collapse" : "vi. 倒下/坍塌 n. 倒塌",
+    "medical" : "a. 醫療的",
+    "staff" : "n. 全體員工",
+    "courage" : "n. 勇氣",
+    "strength" : "n. 意志力/體力/力量",
+    "support" : "n. 支持 vt. 支持/支撐",
+    "struggle" : "vi. 掙扎地前進/奮力/爭取 n. 奮鬥/努力",
+    "pride" : "n. 驕傲/得意",
+    "emotional" : "a. 情緒激動的/情緒的/情感的",
+    "admiration" : "n. 欽佩",
+    "respect" : "n. 敬重 vt. 尊敬/尊重"
+    },
+    "Lesson1-ph" : {
+    "take off" : "出發/起飛",
+    "have one's heart set on" : "一心一意做某事",
+    "speed (...) up" : "加速",
+    "rise to one's feet" : "(重新)站起來",
+    "carry...out" : "幫助...度過難關"
+    },
+    "Lesson1-re" : {
+    "stadium" : "體育場",
+    "bang" : "碰的一聲",
+    "Derek Redmond" : "德瑞克●雷德蒙",
+    "the Olympics" : "奧林匹克運動會",
+    "unbearable" : "難以忍受的",
+    "limb" : "四肢之一",
+    "stand" : "看臺",
+    "security guard" : "保安人員",
+    "spectator" : "觀眾"
+    },
+    "Lesson2" : {
+    "warn" : "vt. 警告/提醒",
+    "announcement" : "n. 廣播",
+    "research" : "n/vt. 研究",
+    "flavor" : "n. 味道",
+    "pressure" : "n. 壓力/心理壓力",
+    "normally" : "ad. 通常",
+    "distinguish" : "v. 分辨",
+    "accurately" : "ad. 精確地/準確地",
+    "function" : "vi. 運作/起作用/n. 功能",
+    "blame" : "vi. 歸咎於/責怪",
+    "affect" : "vt. 影響",
+    "passenger" : "n. 乘客",
+    "distract" : "vt. 使分心/使轉移注意力",
+    "indicate" : "vt. 指出",
+    "conditions" : "n. 情況",
+    "solution" : "n. 解決方案",
+    "ingredient" : "n. (食物的)材料",
+    "recipe" : "n. 食譜",
+    "comparison" : "n. 比較",
+    "remain" : "vi. 保持",
+    "provide" : "vt. 提供",
+    "pleasent" : "a. 令人愉快的"
+    },
+    "Lesson2-ph" : {
+    "be used to" : "習慣",
+    "needless to say" : "不用說",
+    "believe it or not" : "信不信由你",
+    "come up with" : "想出",
+    "in comparison with" : "想出",
+    "regardless of" : "不管"
+    },
+    "Lesson2-re" : {
+    "airplane mode" : "飛航模式",
+    "altitude" : "海拔",
+    "humidity" : "濕度",
+    "cabin" : "機艙",
+    "cuisine" : "菜餚",
+    "bland" : "平淡無味的",
+    "organ" : "器官",
+    "savory" : "可口開胃的",
+    "mushroom" : "蘑菇",
+    "spinach" : "菠菜",
+    "British Airway" : "英國航空",
+    "nasal spray" : "鼻噴劑",
+    "stuffy" : "阻塞的"
+    },
+    "Lesson3" : {
+    "" : ""
+    },
+    "Lesson3-ph" : {
+    "" : ""
+    },
+    "Lesson3-re" : {
+    "" : ""
+    },
+    "Review1" : {
+    "" : ""
+    },
+    "Review1-ph" : {
+    "" : ""
+    },
+    "Review1-re" : {
+    "" : ""
+    },
+    "4U" : {
+    "amazing" : "極好的",
+    "" : ""
+    }
+}

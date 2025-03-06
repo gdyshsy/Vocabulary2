@@ -1,0 +1,18 @@
+#nav{
+    border: 1px solid rgba(0, 0, 0, 0.904);
+    height:20x;
+    width:auto;
+    background-color: rgba(0, 0, 0, 0.904);
+    color: white;
+    display: flex;
+}
+
+.button{
+    padding: 5px 15px 5px 15px ;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: black;
+}
