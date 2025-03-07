@@ -25,12 +25,12 @@
         fileSplit = fileContent.split(",");
         output = fileSplit.slice(0,41).join("")
         document.getElementById("content").innerHTML = output;
-        clicked();
     }
     xhttp.open("GET", "data/data.txt")
     xhttp.send()
 }
 console.log("123")
+clicked();
     </script>
 </body>
 </html>
