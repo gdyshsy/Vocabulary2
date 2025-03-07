@@ -12,7 +12,7 @@
     <li><b>rage n. 暴怒</b></li>,
     <li><b>concentration n. 專注</b><br>concentrate v. 專注/集中(注意力)</li>,
     <li><b>explain v. 解釋</b><br>explanation n. 解釋</li>,
-    <li><b>sincerity n. 真誠</b><br>sincere a. 真籌/坦率</li>,
+    <li><b>sincerity n. 真誠</b><br>sincere a. 真誠/坦率</li>,
     <li><b>confes v. 坦白/認罪</b><br>confession n. 坦白/承認</li>,
     <li><b>restore vt. 使恢復/使復原</b></li>,
     <li><b>fade vi. 逐漸消失</b></li>,
